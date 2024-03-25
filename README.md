@@ -2,3 +2,5 @@ Trabalho de animação usando CSS em grupo feito por Cristiane Ferreira, Eduardo
 Capiotti e Rafael Henkel.
 
 O tema do trabalho foi sobre o jogo Dark Souls 3, famoso pelas lutas difíceis e chefões poderosos.
+
+<img src="./image/darkSoulsgif.gif"/>
